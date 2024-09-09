@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35222.181
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProjectRandomizer", "ProjectRandomizer.csproj", "{54E8CD93-BE35-4EE2-8BE1-759AB5CD7592}"
+EndProject
+Project("{00D1A9C2-B5F0-4AF3-8072-F6C62B433612}") = "ProjectsDB", "Projects\ProjectsDB.sqlproj", "{CB434D27-4AC5-420E-9641-EDB5E8D91BD8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{54E8CD93-BE35-4EE2-8BE1-759AB5CD7592}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{54E8CD93-BE35-4EE2-8BE1-759AB5CD7592}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{54E8CD93-BE35-4EE2-8BE1-759AB5CD7592}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{54E8CD93-BE35-4EE2-8BE1-759AB5CD7592}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CB434D27-4AC5-420E-9641-EDB5E8D91BD8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CB434D27-4AC5-420E-9641-EDB5E8D91BD8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CB434D27-4AC5-420E-9641-EDB5E8D91BD8}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{CB434D27-4AC5-420E-9641-EDB5E8D91BD8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CB434D27-4AC5-420E-9641-EDB5E8D91BD8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CB434D27-4AC5-420E-9641-EDB5E8D91BD8}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A36C524F-5969-4492-BD1E-69E5FC3DCDE7}
+	EndGlobalSection
+EndGlobal

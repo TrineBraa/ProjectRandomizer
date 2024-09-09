@@ -1,0 +1,6 @@
+@ProjectRandomizer_HostAddress = http://localhost:5254
+
+GET {{ProjectRandomizer_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
